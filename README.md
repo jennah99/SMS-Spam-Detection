@@ -141,10 +141,10 @@ Training was performed using mini-batch gradient descent with all parameters ini
 ### Dataset Repository
 
 Dataset URL:
-https://github.com/JennahShahein/CS4375-spam-data/raw/refs/heads/main/spam.csv
+https://github.com/jennah99/CS4375-spam-data/raw/refs/heads/main/spam.csv
 
 Dataset Repository:
-https://github.com/JennahShahein/CS4375-spam-data
+https://github.com/jennah99/CS4375-spam-data
 
 ## Files
 
